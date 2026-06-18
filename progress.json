@@ -1,15 +1,21 @@
 {
-  "updatedAt": "2026-06-18T06:28:42.581Z",
-  "xp": 95,
-  "eloRating": 825,
-  "currentStreak": 1,
-  "completedCount": 1,
+  "updatedAt": "2026-06-18T06:53:21.769Z",
+  "xp": 185,
+  "eloRating": 850,
+  "currentStreak": 2,
+  "completedCount": 2,
   "total": 434,
   "completed": [
     {
       "orderIndex": 1,
       "title": "Print a Greeting",
       "category": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "orderIndex": 2,
+      "title": "Add Two Numbers",
+      "category": "math",
       "difficulty": "easy"
     }
   ]
