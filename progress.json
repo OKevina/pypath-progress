@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-18T07:09:55.685Z",
-  "xp": 273,
-  "eloRating": 875,
-  "currentStreak": 3,
-  "completedCount": 3,
+  "updatedAt": "2026-06-18T11:06:13.506Z",
+  "xp": 324,
+  "eloRating": 890,
+  "currentStreak": 1,
+  "completedCount": 4,
   "total": 434,
   "completed": [
     {
@@ -22,6 +22,12 @@
       "orderIndex": 3,
       "title": "Store and Reuse a Variable",
       "category": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "orderIndex": 4,
+      "title": "Even or Odd",
+      "category": "math",
       "difficulty": "easy"
     }
   ]
