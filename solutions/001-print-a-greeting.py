@@ -1,1 +1,1 @@
-print("Hello, World!")  # my solution
+print("Hello, World!")
