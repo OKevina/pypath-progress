@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-18T11:06:13.506Z",
-  "xp": 324,
-  "eloRating": 890,
+  "updatedAt": "2026-06-18T11:19:44.316Z",
+  "xp": 414,
+  "eloRating": 915,
   "currentStreak": 1,
-  "completedCount": 4,
+  "completedCount": 5,
   "total": 434,
   "completed": [
     {
@@ -27,6 +27,12 @@
     {
       "orderIndex": 4,
       "title": "Even or Odd",
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "orderIndex": 5,
+      "title": "Sum From One To N",
       "category": "math",
       "difficulty": "easy"
     }
