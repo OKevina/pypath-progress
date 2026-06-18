@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-18T06:53:21.769Z",
-  "xp": 185,
-  "eloRating": 850,
-  "currentStreak": 2,
-  "completedCount": 2,
+  "updatedAt": "2026-06-18T06:54:42.385Z",
+  "xp": 273,
+  "eloRating": 875,
+  "currentStreak": 3,
+  "completedCount": 3,
   "total": 434,
   "completed": [
     {
@@ -16,6 +16,12 @@
       "orderIndex": 2,
       "title": "Add Two Numbers",
       "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "orderIndex": 3,
+      "title": "Store and Reuse a Variable",
+      "category": "basics",
       "difficulty": "easy"
     }
   ]
