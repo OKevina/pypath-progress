@@ -8,11 +8,11 @@ _Auto-updated by [PyPath](https://github.com/OKevina/PyPath) after each solved c
 
 | Metric | Value |
 |--------|-------|
-| ✅ Challenges solved | **3 / 434** |
-| ✦ XP | **273** |
-| ♟ Elo | **875** |
-| 🔥 Streak | **3** |
-| 🕒 Last updated | 2026-06-18T07:09:57.727Z |
+| ✅ Challenges solved | **4 / 434** |
+| ✦ XP | **324** |
+| ♟ Elo | **890** |
+| 🔥 Streak | **1** |
+| 🕒 Last updated | 2026-06-18T11:06:17.093Z |
 
 💾 Solutions are archived in the [`solutions/`](solutions/) folder.
 
@@ -22,3 +22,4 @@ _Auto-updated by [PyPath](https://github.com/OKevina/PyPath) after each solved c
 | 1 | Print a Greeting | basics | easy |
 | 2 | Add Two Numbers | math | easy |
 | 3 | Store and Reuse a Variable | basics | easy |
+| 4 | Even or Odd | math | easy |
