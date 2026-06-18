@@ -12,7 +12,9 @@ _Auto-updated by [PyPath](https://github.com/OKevina/PyPath) after each solved c
 | ✦ XP | **273** |
 | ♟ Elo | **875** |
 | 🔥 Streak | **3** |
-| 🕒 Last updated | 2026-06-18T06:54:44.638Z |
+| 🕒 Last updated | 2026-06-18T07:09:57.727Z |
+
+💾 Solutions are archived in the [`solutions/`](solutions/) folder.
 
 ## Completed challenges
 | # | Title | Category | Difficulty |
